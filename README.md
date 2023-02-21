@@ -1,5 +1,8 @@
-Clone the project.
+# How to use the project
 
-Install dependencies (npm i).
+- Clone
+- Install dependencies (npm i)
+- Get your API key and add to weatherService.js
+- Enjoy!!
 
-npm start.
+> Leave a star :)
